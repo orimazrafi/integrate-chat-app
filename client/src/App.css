@@ -1,0 +1,6 @@
+.App {
+  display: flex;
+}
+.app__container {
+  margin: 100px auto 0 auto;
+}

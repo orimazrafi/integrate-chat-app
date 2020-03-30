@@ -1,0 +1,11 @@
+.form__wrapper {
+  display: flex;
+}
+.form__container {
+  margin: auto;
+}
+p.username__error__message {
+  color: red;
+  font-size: 0.9rem;
+  font-weight: bold;
+}

@@ -1,0 +1,24 @@
+@media only screen and (max-width: 768px) {
+  nav {
+    display: flex;
+  }
+}
+
+nav.fixed {
+  margin-bottom: 40px;
+  position: fixed !important ;
+  background-color: aliceblue;
+}
+.nav-brand {
+  display: flex;
+}
+.navbar__username {
+  font-size: 1.8rem;
+}
+.logout {
+  border-bottom: 5px solid #41403e;
+  margin-left: 15px;
+}
+.logout:hover {
+  cursor: pointer;
+}

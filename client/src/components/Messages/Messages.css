@@ -1,0 +1,22 @@
+.messages__headline {
+  text-align: center;
+}
+.card {
+  margin: 10px;
+  max-width: 20rem;
+}
+.card-header {
+  padding-left: 10px !important;
+  padding: 0.35rem 0.95rem !important;
+}
+.message__time {
+  margin: 0;
+  display: inline;
+  color: rebeccapurple;
+}
+.message__username {
+  margin: 0;
+  display: inline;
+  font-weight: bold;
+  margin-right: 10px;
+}

@@ -1,0 +1,16 @@
+@media screen and (max-width: 680px) {
+  .users__container {
+    display: none;
+  }
+}
+.users__container {
+  padding: 10px;
+}
+.users__container .active {
+  font-weight: bold;
+  color: green;
+}
+.users__list {
+  padding-left: 20px;
+  font-size: 0.9rem;
+}

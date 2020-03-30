@@ -1,0 +1,17 @@
+@media screen and (max-width: 830px) {
+  .rooms__container {
+    display: none;
+  }
+}
+
+.rooms__container {
+  padding: 10px;
+}
+.rooms__container .active {
+  color: green;
+  font-weight: bold;
+}
+.rooms_list {
+  padding-left: 20px;
+  font-size: 0.9rem;
+}
